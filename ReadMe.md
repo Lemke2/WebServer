@@ -16,4 +16,4 @@ Probably I will leave it there, I have no desire to implement things like:
 
 Resources:
 - https://pages.cs.wisc.edu/~remzi/OSTEP/
-- https://www.jmarshall.com/easy/http/#sample
+- https://beej.us/guide/bgnet/html/split/
